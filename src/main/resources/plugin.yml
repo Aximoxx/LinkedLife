@@ -1,0 +1,8 @@
+name: LinkedLife
+version: '1.0'
+main: fr.Aximoxx.linkedLife.Main
+api-version: '1.21'
+authors: [ Aximoxx ]
+commands:
+  linkedlife:
+    description: démarre/stop la game
